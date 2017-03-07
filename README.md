@@ -16,9 +16,3 @@ copy the /MMM-GoogleMaps-Directions folder into your modules. if you put it in a
     }
 },
 ```
-## random
-https://github.com/desertblade/iFrame  
-credit to this module for showing me how simply you could use an iFrame to load whatever you want.
-
-https://developers.google.com/maps/documentation/embed/  
-this is the url for the google maps embed api, which is handy for seeing how to format your addresses and stuff
